@@ -1,0 +1,15 @@
+#div1 {
+    background-color: blanchedalmond;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+
+#div2 {
+    background-color: #0000ff;
+}
+
+#div3 {
+    background-color: green;
+}
